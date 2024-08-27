@@ -6,12 +6,7 @@
 
 
 ```markdown
-
-# Header 1
-## Header 2
-### Header 3
-
 - Only 1 credit hour
 - Easier than CS180
 - No Exams
-
+```
